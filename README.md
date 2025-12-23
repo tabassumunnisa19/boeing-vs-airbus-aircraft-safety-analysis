@@ -6,6 +6,7 @@
 
 
 boeing-vs-airbus-aircraft-safety-analysis
+
 “A data-driven safety analysis of Boeing and Airbus, moving from public perception and media narratives to statistical evidence through trend analysis, severity assessment, and hypothesis testing.”
 
 This project was developed as part of my **data science learning and independent research journey**, with a strong focus on analytical reasoning, statistical testing, and transparent interpretation.
