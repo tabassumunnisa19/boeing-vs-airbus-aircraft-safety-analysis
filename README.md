@@ -1,3 +1,10 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Statistics](https://img.shields.io/badge/Statistics-Applied-green)
+![Research](https://img.shields.io/badge/Research-Independent-purple)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+
+
+
 boeing-vs-airbus-aircraft-safety-analysis
 “A data-driven safety analysis of Boeing and Airbus, moving from public perception and media narratives to statistical evidence through trend analysis, severity assessment, and hypothesis testing.”
 
