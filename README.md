@@ -50,14 +50,26 @@ The notebook includes the following analyses:
 - Jupyter Notebook – analysis and documentation  
 
 ---
-📂 Project Structure
+## 📂 Project Structure
 
-├── Nisa_python_project.ipynb       # Complete analysis notebook
+```text
+boeing-vs-airbus-aircraft-safety-analysis/
+│
+├── Images/
+│   └── (Screenshots of analysis, charts, and key insights)
+│
+├── Boeing Versus Airbus.ipynb
+│   └── Complete end-to-end analysis notebook
+│
+├── README.md
+│   └── Project documentation and methodology
+│
+├── requirements.txt
+│   └── Python dependencies required to run the notebook
+│
+└── .gitignore
 
-├── README.md                       # Project documentation
-
-├── requirements.txt                # Python dependencies
-
+```
 
 ---
 
@@ -78,6 +90,10 @@ pip install -r requirements.txt
 4. Open the notebook:
 
 jupyter notebook Nisa_python_project.ipynb
+
+-----
+
+> **For a complete understanding of the analytical flow, methodology, and key insights, refer to the screenshots provided in the `Images/` folder.**
 
 -----
 
